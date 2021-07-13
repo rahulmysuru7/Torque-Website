@@ -1,2 +1,2 @@
 # Torque-Website
-Website for Torque club IITH
+Website for Torque club IITH.
