@@ -1,0 +1,27 @@
+.fdb-block{
+    height: 100vh;
+
+}
+
+
+.row{
+    height: 50px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+  }
+
+  .column img{
+    border-radius: 50%;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
